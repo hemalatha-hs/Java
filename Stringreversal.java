@@ -4,7 +4,7 @@ import java.util.*;
 class ReverseString {
     public static void main(String[] args)
     {
-        String input = "Geeks For Geeks";
+        String input = "Sandeep";
         char[] temparray = input.toCharArray();
         int left, right = 0;
         right = temparray.length - 1;
